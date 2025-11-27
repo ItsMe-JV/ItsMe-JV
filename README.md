@@ -25,17 +25,16 @@ I’m passionate about:
 ---
 
 ## 📂 Current Projects
-*(Add your real projects here later — or ask me and I make this section for you.)*
 - Internal Laravel tooling  
 - Personal portfolio
 - Contribution and development to Eventicks, Seattick and Floorticks
-- Development project by Crossfire Interactive
+- Development projects by Crossfire Interactive
 - Backend utilities & experimental APIs  
 
 ---
 
 ## 📫 Contact & Links
-- LinkedIn:  
+- LinkedIn:  -
 - Website:  https://www.jensv.dev
 
 ---
